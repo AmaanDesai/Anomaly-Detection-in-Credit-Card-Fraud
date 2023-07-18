@@ -10,4 +10,5 @@ STEPS Carried :
 3. DATA VISUALIZATION
 4. PREPROCESSING :  Missing Values,  Feature Scaling.
 5. MODEL BUILDING : logistic Regression,  Knearest Neighbor, Gradient Boosting, Decision Tree, Random Forest.
+6. MODEL EVALUATION: Accuracy, Recall, Precision.
  
