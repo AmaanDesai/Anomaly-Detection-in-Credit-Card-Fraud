@@ -9,5 +9,5 @@ STEPS Carried :
 2. EXPLORATORY DATA ANALYSIS
 3. DATA VISUALIZATION
 4. PREPROCESSING :  Missing Values,  Feature Scaling.
-5. MODEL BUILDING : logistic regression,  knn, gb
+5. MODEL BUILDING : logistic Regression,  Knearest Neighbor, Gradient Boosting, Decision Tree, Random Forest.
  
